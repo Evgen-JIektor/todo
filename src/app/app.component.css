@@ -1,0 +1,23 @@
+.block-list{
+    display: block;
+    background: gray;
+}
+.list{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    padding: 10px 0 20px;
+}
+.block-view{
+    height: 300px;
+    width: 100%;
+    background: #d6d6a5;
+}
+.status_false{
+    text-decoration: line-through;
+}
+.button-del{
+    background: red;
+    border: 1px solid red;
+    color: white;
+}
